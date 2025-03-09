@@ -57,3 +57,9 @@ npm run dev
     - 3xx: Redirecionamento
     - 4xx: Erro do cliente
     - 5xx: Erro do servidor 
+
+## Streams no nodejs
+
+Streams são fluxos de dados que permitem ler e escrever dados de forma eficiente, mesmo em arquivos muito grandes sem a necessidade de carregar tudo na memória. Ou seja, é possível ler e escrever dados de forma incremental.
+
+### Tipos de streams
