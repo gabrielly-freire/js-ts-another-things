@@ -28,6 +28,7 @@ export function Post() {
           <a href="">#nlw</a> {' '}
           <a href="">#rocketseat</a></p>
       </div>
+
     </article>
   );
 }
